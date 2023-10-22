@@ -1,3 +1,19 @@
-body {
-    background-color: black;
+body{
+    background-color: light-blue;
+
+}
+.map-img{
+
+}
+.state{
+    
+}
+.state:hover{
+    box-shadow: inset 0 0 0 0 #666;
+	color: #ffa366;
+	font-weight: bold;
+	font-size: 16px;
+	margin: 0 -.25rem;
+	padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
